@@ -12,3 +12,4 @@ Para executar o app:
 ```
 streamlit run streamlit_app.py
 ```
+Pode ser necessário alterar os dados de conexão presentes no arquico app/engine.
